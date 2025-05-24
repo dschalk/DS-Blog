@@ -1,6 +1,5 @@
 <script>
-
-var port = "PORT";
+var port = "PORT";  
 var PORT = 3000;
 
 var AI_Claude = `
@@ -3452,7 +3451,6 @@ Overall, Monica AI Tools seems to be positioning itself as a platform that provi
 <br><br>
 <h1>Server Code</h1>
 <h2>AI_Claude Conversation</h2>
-<pre>{AI_Claude}</pre>
 <br><br>
 <br><br>
 <h2>MaxAI Conversation</h2>

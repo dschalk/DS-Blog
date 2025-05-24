@@ -148,7 +148,7 @@ pre {
 <pre>{Hask}</pre>
 
 <h1>JavaScript Mutation</h1>
-<p>Mutable variables in the global space are liable to being inadvertently "stepped on," especially in group projects, or when editing code after writing it has begun to fade from memory. Mutating variables inside of code blocks or functions is safer, and good practice when thousands of iterations through loops could cause memory leaks by generating copious immutable values.</p>
+<p>Mutable variables in the global space are liable to being inadvertently "stepped on," especially in group projects, or when editing code after writing it has begunfrom memory. Mutating variables inside of code blocks or functions is safer, and good practice when thousands of iterations through loops could cause memory leaks by generating copious immutable values.</p>
 
 <p>The m-M(x) recursive closures facilitate sequestering mutable state until it is explicitly requested by the programmer. See https://schalk2.com/recursive-closures. </p>
 <br><br><br>
